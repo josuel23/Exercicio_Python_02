@@ -1,2 +1,2 @@
-# ex_002.py
- exercicios_python
+# exercicios_python
+ ex002_py
